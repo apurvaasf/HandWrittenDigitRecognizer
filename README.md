@@ -1,5 +1,5 @@
 # HandWrittenDigitRecognizer
-Hand written digit recognition using sklearn
+Hand written digit recognition using sklearn for Machine Learning course lab-test at BITS Goa.
 1. Found optimal number of components using sklearn's PCA
 2. Tried the following scikit-learn models:
     - Logistic Regression
